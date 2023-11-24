@@ -8,7 +8,7 @@
 
 ## Nutri o futuro
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fabricio Freitas Gomes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Hellen Caroline Batista Silva</a>, <a href="[https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/jenifer-barreto-55022523b/)">Jenifer Barreto </a>, <a href="https://www.linkedin.com/in/victorbarq/">Maria Kassandra Alves Gomes</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fabricio Freitas Gomes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Hellen Caroline Batista Silva</a>, <a href="https://www.linkedin.com/in/jenifer-barreto-55022523b/">Jenifer Barreto </a>, <a href="https://www.linkedin.com/in/victorbarq/">Maria Kassandra Alves Gomes</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
