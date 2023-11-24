@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Fabricio Freitas Gomes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Hellen Caroline Batista Silva</a>, <a href="https://www.linkedin.com/in/jenifer-barreto-55022523b/">Jenifer Barreto </a>, <a href="https://www.linkedin.com/in/victorbarq/">Maria Kassandra Alves Gomes</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/"> Victor Rosetti</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Adriano F. Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/"> Alexsandro Roberto</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/"> Fabiano Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz</a>
 
 ## Descrição
 
