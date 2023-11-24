@@ -38,11 +38,10 @@ Linguagem C#
   &emsp;|GRUPO 02 - CCOMP - Projetos de Extensão.docx<br>
 |-->executáveis<br>
   &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
+ &emsp;|-->MenuInicial.png<br>
 |-->src<br>
-  &emsp;|-->PI_ODS2v1.2<br>
+  &emsp;|-->PI_ODS2v1.7<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
