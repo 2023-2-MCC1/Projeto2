@@ -16,7 +16,6 @@
 
 <p align="center">
 <img src="imagens/MenuInicial.png">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
@@ -50,10 +49,6 @@ Linguagem C#
 Não há instalação! Apenas executável!
 Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>HTML:</b>
 
 Não há instalação!
@@ -65,12 +60,12 @@ Descreva como instalar todas as dependências para desenvolvimento e como rodar 
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
--<a href="https://godotengine.org/download">GODOT</a>
+-<a href="https://unity.com/pt">UNITY</a>
 
 ```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+1. INSTALAR EDITOR VERSÃO 2022.11
+2. BAIXAR OS ARQUIVOS DO REPOSITORIO
+3. ABRIR COM UNITY
 ```
 
 ## 🗃 Histórico de lançamentos
