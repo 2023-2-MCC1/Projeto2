@@ -63,9 +63,9 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 -<a href="https://unity.com/pt">UNITY</a>
 
 ```sh
-1. INSTALAR EDITOR VERSÃO 2022.11
-2. BAIXAR OS ARQUIVOS DO REPOSITORIO
-3. ABRIR COM UNITY
+1. Instalar editor versão 2022.3.11f1
+2. Baixar os arquivos do repositorio
+3. Abrir com Unity
 ```
 
 ## 🗃 Histórico de lançamentos
