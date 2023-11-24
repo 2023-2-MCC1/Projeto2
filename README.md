@@ -20,11 +20,13 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O jogo foi baseado na ODS 2 – Fome zero
+O propósito do jogo é conscientizar aqueles que não vivenciam situações como essa, permitindo-lhes entender melhor as experiências das pessoas nessas circunstâncias. Ao mesmo tempo, visa alcançar e orientar aqueles que podem estar enfrentando dificuldades, fornecendo informações sobre refúgio, alimentação e possíveis meios para superar esses desafios.
+O jogo gráfico criado em plataforma 2D 
+Engine Unity 
+Desenvolvido para ser jogado em computadores
+Linguagem C#
+
 <br><br>
 
 ## 🛠 Estrutura de pastas
