@@ -45,15 +45,6 @@ Linguagem C#
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
@@ -86,17 +77,14 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
+* 0.1.7 - 20/11/2023
+    * REVISÃO
+* 0.1.2 - 17/11/2023
+    * Melhorias
+    * CORREÇÃO:Script vida e hidratação
+* 0.1.1 - 16/11/2022
+    * CORREÇÃO: script movimentação do player
+* 0.1.0 - 15/11/2023
     * Trabalho em andamento
 
 ## 📋 Licença/License
